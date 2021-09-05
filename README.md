@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Allan-mukuna
 - 👀 I’m interested in Web Technologies and Data Science
-- 🌱 I’m currently learning Python and Django
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MAchine Learning
+- 💞️ I’m looking to collaborate on Django
 - 📫 How to reach me allanmukuna104@gmail.com
 
 <!---
